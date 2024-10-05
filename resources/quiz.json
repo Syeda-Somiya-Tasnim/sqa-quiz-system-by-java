@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "answerkey": 4
+  },
+  {
+    "question": "What is the main goal of quality assurance?",
+    "option 1": "Defect prevention",
+    "option 2": "Defect detection",
+    "option 3": "Documentation",
+    "option 4": "Cost reduction",
+    "answerkey": 1
+  },
+  {
+    "question": "What does SQA stand for?",
+    "option 1": "Software Quality Assessment",
+    "option 2": "Software Quality Assurance",
+    "option 3": "Software Quality Analysis",
+    "option 4": "Software Quality Architecture",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a black-box testing technique?",
+    "option 1": "Statement Coverage",
+    "option 2": "Boundary Value Analysis",
+    "option 3": "Code Review",
+    "option 4": "White-box Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of a test plan?",
+    "option 1": "To define test strategy and scope",
+    "option 2": "To log defects",
+    "option 3": "To report test results",
+    "option 4": "To create test cases",
+    "answerkey": 1
+  },
+  {
+    "question": "Which testing type focuses on evaluating the software from the end-user's perspective?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "User Acceptance Testing",
+    "option 4": "System Testing",
+    "answerkey": 3
+  },
+  {
+    "question": "What is a test case?",
+    "option 1": "A detailed document for testing",
+    "option 2": "A condition to test the system",
+    "option 3": "An automated script",
+    "option 4": "A test environment",
+    "answerkey": 2
+  },
+  {
+    "question": "What does the term 'regression testing' refer to?",
+    "option 1": "Testing new features only",
+    "option 2": "Testing software after changes to ensure existing functionality works",
+    "option 3": "Testing without documentation",
+    "option 4": "Testing that occurs after deployment",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a non-functional testing type?",
+    "option 1": "Performance Testing",
+    "option 2": "Smoke Testing",
+    "option 3": "Regression Testing",
+    "option 4": "System Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the main purpose of a bug report?",
+    "option 1": "To track project progress",
+    "option 2": "To inform stakeholders about testing results",
+    "option 3": "To document defects and their impact",
+    "option 4": "To record test cases",
+    "answerkey": 3
+  },
+  {
+    "question": "Which testing technique evaluates the internal workings of an application?",
+    "option 1": "Black-box Testing",
+    "option 2": "White-box Testing",
+    "option 3": "Functional Testing",
+    "option 4": "User Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the term used for testing performed to verify that the software meets its specified requirements?",
+    "option 1": "Verification",
+    "option 2": "Validation",
+    "option 3": "Quality Assurance",
+    "option 4": "Quality Control",
+    "answerkey": 2
+  },
+  {
+    "question": "What does a 'defect life cycle' represent?",
+    "option 1": "Stages of the software development process",
+    "option 2": "The path a defect takes from discovery to resolution",
+    "option 3": "Phases of testing",
+    "option 4": "Levels of testing",
+    "answerkey": 2
+  },
+  {
+    "question": "Which of the following is a static testing technique?",
+    "option 1": "Code Review",
+    "option 2": "Unit Testing",
+    "option 3": "Integration Testing",
+    "option 4": "System Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the purpose of load testing?",
+    "option 1": "To check the user interface",
+    "option 2": "To measure system behavior under normal and peak load conditions",
+    "option 3": "To validate the business requirements",
+    "option 4": "To find bugs in the application",
+    "answerkey": 2
+  },
+  {
+    "question": "Which term describes a situation where test cases are executed without any documented requirements?",
+    "option 1": "Exploratory Testing",
+    "option 2": "Regression Testing",
+    "option 3": "Unit Testing",
+    "option 4": "System Testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is a test metric?",
+    "option 1": "A standard for measuring software quality",
+    "option 2": "A document that outlines test cases",
+    "option 3": "A tool for automated testing",
+    "option 4": "A bug tracking system",
+    "answerkey": 1
+  },
+  {
+    "question": "Which type of testing ensures that different modules work together correctly?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing",
+    "option 3": "System Testing",
+    "option 4": "User Acceptance Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does 'smoke testing' involve?",
+    "option 1": "A thorough examination of the entire application",
+    "option 2": "A quick test to check if the application is stable enough for further testing",
+    "option 3": "Testing after deployment",
+    "option 4": "Testing with dummy data",
+    "answerkey": 2
+  },
+  {
+    "question": "What is 'usability testing' primarily concerned with?",
+    "option 1": "Checking the application's functionality",
+    "option 2": "Ensuring the application meets performance requirements",
+    "option 3": "Evaluating the user-friendliness and ease of use of the application",
+    "option 4": "Validating business requirements",
+    "answerkey": 3
+  },
+  {
+    "question": "Which of the following best describes 'test automation'?",
+    "option 1": "Using manual testing techniques",
+    "option 2": "Using automated tools to execute test cases",
+    "option 3": "Performing regression testing only",
+    "option 4": "Writing test cases in a document",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the purpose of a 'Test Summary Report'?",
+    "option 1": "To list all test cases",
+    "option 2": "To provide a summary of testing activities and results",
+    "option 3": "To document defects",
+    "option 4": "To outline the testing strategy",
+    "answerkey": 2
+  },
+  {
+    "question": "What does 'boundary value analysis' focus on?",
+    "option 1": "Testing values within the valid range only",
+    "option 2": "Testing values at the boundaries of valid ranges",
+    "option 3": "Testing user interfaces",
+    "option 4": "Testing performance under load",
+    "answerkey": 2
+  },
+  {
+    "question": "Which is a characteristic of a good test case?",
+    "option 1": "It should be lengthy and complex.",
+    "option 2": "It should be easy to understand and reproducible.",
+    "option 3": "It should be vague to allow flexibility.",
+    "option 4": "It should cover as many features as possible in one case.",
+    "answerkey": 2
+  },
+  {
+    "question": "What is the goal of 'performance testing'?",
+    "option 1": "To determine how well the application functions under various conditions",
+    "option 2": "To find defects",
+    "option 3": "To verify requirements",
+    "option 4": "To test user interfaces",
+    "answerkey": 1
+  },
+  {
+    "question": "Which type of testing is conducted after a system is developed?",
+    "option 1": "Alpha Testing",
+    "option 2": "Beta Testing",
+    "option 3": "Unit Testing",
+    "option 4": "Regression Testing",
+    "answerkey": 2
+  },
+  {
+    "question": "What does 'risk-based testing' focus on?",
+    "option 1": "Testing every requirement equally",
+    "option 2": "Prioritizing testing based on risk assessment",
+    "option 3": "Testing only high-level requirements",
+    "option 4": "Automated testing only",
+    "answerkey": 2
+  },
+  {
+    "question": "What is 'equivalence partitioning'?",
+    "option 1": "A testing technique where inputs are divided into groups that are expected to produce similar results",
+    "option 2": "A technique for finding performance bottlenecks",
+    "option 3": "A method for designing test cases based on user roles",
+    "option 4": "A strategy for exploratory testing",
+    "answerkey": 1
+  },
+  {
+    "question": "What is the significance of 'test coverage'?",
+    "option 1": "It indicates the percentage of the application that has been tested.",
+    "option 2": "It defines the scope of testing.",
+    "option 3": "It measures the efficiency of test execution.",
+    "option 4": "It ensures the application is bug-free.",
+    "answerkey": 1
+  },
+  {
+    "question": "What does 'defect density' measure?",
+    "option 1": "The number of defects in a given amount of code",
+    "option 2": "The total number of test cases executed",
+    "option 3": "The frequency of testing",
+    "option 4": "The complexity of the application",
+    "answerkey": 1
+  }
+]
