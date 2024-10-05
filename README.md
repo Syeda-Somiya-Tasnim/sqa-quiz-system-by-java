@@ -56,4 +56,6 @@ build/
 3. Admins can add questions until they choose to quit by pressing **'q'**.
 4. Students can take quizzes by pressing **'s'** to start the quiz.
 
+## Recorded Video of Output:
+- [SQA QUIZ System Output](https://drive.google.com/file/d/1RVQJYx8F7-Ym3sngjMUxe2fCZnpJvAw2/view?usp=sharing)
 
